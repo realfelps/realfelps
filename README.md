@@ -12,20 +12,19 @@
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma,windows,vscode)](https://skillicons.dev)
 
-                 🚀 Sobre mim
+           🚀 Sobre mim
 
-                 Sou apaixonado por tecnologia e pela capacidade que ela tem de transformar processos e criar soluções reais.
+            Sou apaixonado por tecnologia e pela capacidade que ela tem de transformar processos e criar soluções reais.
 
-                 Tenho conhecimentos em desenvolvimento web, suporte em TI, organização de ambientes digitais e ferramentas que aumentam produtividade. Busco                       constantemente evoluir minhas habilidades técnicas e comportamentais para crescer na área.
+            Tenho conhecimentos em desenvolvimento web, suporte em TI, organização de ambientes digitais e ferramentas que aumentam produtividade. Busco                       constantemente evoluir minhas habilidades técnicas e comportamentais para crescer na área.
 
-                 Minha experiência no Exército Brasileiro fortaleceu competências como:
+             Minha experiência no Exército Brasileiro fortaleceu competências como:
 
-                 ✔️ Disciplina
-                 ✔️ Proatividade
-                 ✔️ Organização
-                 ✔️ Aprendizado rápido
-                 ✔️ Trabalho em equipe
+            ✔️ Disciplina
+            ✔️ Proatividade
+            ✔️ Organização
+            ✔️ Aprendizado rápido
+            ✔️ Trabalho em equipe
 
-                 Atualmente, busco minha primeira oportunidade formal em TI, onde eu possa aprender, contribuir e agregar valor a uma equipe de tecnologia.
-
+                 
 
