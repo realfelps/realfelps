@@ -27,5 +27,30 @@
             ✔️ Aprendizado rápido
             ✔️ Trabalho em equipe
 
+            📚 Atualmente estudando
+            React avançado
+            Desenvolvimento Full Stack
+            Boas práticas de arquitetura de software
+            Inteligência Artificial aplicada ao desenvolvimento
+          
+            🎯 Objetivo
+
+            Atuar em áreas como:
+
+            Desenvolvimento de Sistemas
+            Front-End Development
+            Suporte em TI
+            Análise de Processos
+            Tecnologia aplicada a negócios
+         
+            📫 Contato
+
+            📧 Email: felipecarvalhossantos.fc@gmail.com
+            💼 LinkedIn: www.linkedin.com/in/felipesantoosdev
+            
+
+                                                      
+                                              ⭐ Sempre aprendendo
+
                  
 
