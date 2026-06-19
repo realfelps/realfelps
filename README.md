@@ -7,3 +7,9 @@
  <h1> Tecnologias </h1>
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma)](https://skillicons.dev)
+
+
+
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=dark"/>
+</div>
