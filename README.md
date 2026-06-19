@@ -12,7 +12,7 @@
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma,windows,vscode)](https://skillicons.dev)
 
-        🐝 Sobre mim
+     🐝 Sobre mim
 
             Sou apaixonado por tecnologia e pela capacidade que ela tem de transformar processos e criar soluções reais.
 
