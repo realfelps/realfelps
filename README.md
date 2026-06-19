@@ -1,4 +1,4 @@
- ##                         Olá, eu sou Felipe 👋  -  Desenvolvedor Front-End em formação.
+ ##                         Olá, eu sou Felipe 👋 
 
 
 <div align="center">
