@@ -2,7 +2,7 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Católica de Brasília.
 
-💻 Profissional em formação na área de Tecnologia da Informação, com foco em desenvolvimento web, suporte técnico e soluções digitais.
+       💻 Profissional em formação na área de Tecnologia da Informação, com foco em desenvolvimento web, suporte técnico e soluções digitais.
 
 
 <div align="center">
