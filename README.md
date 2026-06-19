@@ -10,4 +10,4 @@
 
 
 
- ![slateorange GitHub stats](https://github-readme-stats.vercel.app/api?username=slateorange&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=slateorange_icons=true)
