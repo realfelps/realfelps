@@ -4,9 +4,8 @@
 
        💻 Profissional em formação na área de Tecnologia da Informação, com foco em desenvolvimento web, suporte técnico e soluções digitais.
 
-     <p align="left">
-  <img src="https://flagcdn.com/w20/br.png" width="20"/>
-  Estou utilizando o GitHub para fortalecer meu inglês técnico, então alguns projetos possuem descrições em inglês e português.
+<p align="left">
+          <img src="https://flagcdn.com/w20/br.png" width="20"/>  Estou utilizando o GitHub para fortalecer meu inglês técnico, então alguns projetos possuem descrições em inglês e português.
 </p>
        
        Estou utilizando o GitHub para fortalecer meu inglês técnico, então alguns projetos possuem descrições em inglês e português.
